@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context workDir="C:\Users\dys11\Desktop\KB IT's your life\07_JSP&amp;Servlet\Practice\ex02-2\src\main\webapp\WEB-INF\translate">
+
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+    <WatchedResource>WEB-INF/tomcat-web.xml</WatchedResource>
+    <WatchedResource>${catalina.base}/conf/web.xml</WatchedResource>
+</Context>
